@@ -1,1 +1,1 @@
-http://i.ikanxs.com/api.php/video/applist
+http://i.ikanxs.com/
